@@ -1,3 +1,2 @@
-# hello-world
+# hello
 my first github
-my English is very good!
